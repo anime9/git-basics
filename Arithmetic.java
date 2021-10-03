@@ -5,6 +5,6 @@ public class Arithmetic {
         
         int x=  5;
         int z = 10;
-        System.out.println("Sum again:"+x+z);
+        System.out.println("Sum again:"+x*z);
     }
 }
